@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.e831c4bf.css",
+    "main.js": "/test/static/js/main.e572d831.js",
+    "static/media/chainsawman.jpg": "/test/static/media/chainsawman.150fdeae9f193338c273.jpg",
+    "static/media/country of gems.jpg": "/test/static/media/country of gems.616d2a1b3ef34dfaaf20.jpg",
+    "static/media/cowboy-bebop.jpg": "/test/static/media/cowboy-bebop.60c37f6509392d197f96.jpg",
+    "static/media/payback.jpg": "/test/static/media/payback.8b15f19685872510390b.jpg",
+    "static/media/smoking-behind-the-supermarket-with-you.jpg": "/test/static/media/smoking-behind-the-supermarket-with-you.a3b8e6ca246bc272ab7c.jpg",
+    "static/media/Monologue in a Pharmacy Store.jpg": "/test/static/media/Monologue in a Pharmacy Store.06171fe0b100dee4c823.jpg",
+    "static/media/sun.svg": "/test/static/media/sun.294618617fcf3e6149abc7de99e9da22.svg",
+    "index.html": "/test/index.html",
+    "static/media/moon.svg": "/test/static/media/moon.748a47044e7994c7a907b4691ecff584.svg",
+    "main.e831c4bf.css.map": "/test/static/css/main.e831c4bf.css.map",
+    "main.e572d831.js.map": "/test/static/js/main.e572d831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e831c4bf.css",
+    "static/js/main.e572d831.js"
+  ]
+}
